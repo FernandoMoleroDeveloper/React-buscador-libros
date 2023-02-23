@@ -1,0 +1,30 @@
+.books__table {
+    border: 1px solid black;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.books__title{
+    font-weight: 700;
+    color: rgb(20, 79, 162);
+}
+
+.books__titles {
+    border: 1px solid black;
+    text-align: left;
+    padding: 5px;
+}
+
+.books__row {
+    border: 1px solid black;
+}
+
+.books__field {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.books__input{
+    padding: 5px;
+    width: 200px;
+}
